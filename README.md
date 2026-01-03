@@ -1,2 +1,4 @@
 # Azure-MLOps-Setup
-Azure MLOps
+Azure ML examples
+
+https://github.com/Azure/azureml-examples
